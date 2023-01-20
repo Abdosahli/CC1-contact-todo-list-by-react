@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CC1-contact-todo-list-by-react/static/css/main.9a0eb8d1.css",
+    "main.js": "/CC1-contact-todo-list-by-react/static/js/main.a35910b0.js",
+    "static/js/787.62e61654.chunk.js": "/CC1-contact-todo-list-by-react/static/js/787.62e61654.chunk.js",
+    "static/media/delete.png": "/CC1-contact-todo-list-by-react/static/media/delete.870ad827e070716a836d.png",
+    "index.html": "/CC1-contact-todo-list-by-react/index.html",
+    "main.9a0eb8d1.css.map": "/CC1-contact-todo-list-by-react/static/css/main.9a0eb8d1.css.map",
+    "main.a35910b0.js.map": "/CC1-contact-todo-list-by-react/static/js/main.a35910b0.js.map",
+    "787.62e61654.chunk.js.map": "/CC1-contact-todo-list-by-react/static/js/787.62e61654.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a0eb8d1.css",
+    "static/js/main.a35910b0.js"
+  ]
+}
